@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tech Stacks: <img src="https://img.shields.io/badge/Nothing-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+Tech Stacks: <img src="https://img.shields.io/badge/Nothing-20232a.svg?style=for-the-badge&logo=Color=61DAFB" />
 <br>
 <br>
 🤔 I’m looking for help with developer friends
