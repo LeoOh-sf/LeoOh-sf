@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 🤔 I’m looking for help with developer friends
+<br>
 🌱 I’m currently learning python
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOh-sf&show_icons=true&theme=radical)
