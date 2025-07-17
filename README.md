@@ -19,7 +19,7 @@ Tech Stacks: <img src="https://img.shields.io/badge/Nothing-20232a.svg?style=for
 🤔 I’m looking for help with developer friends
 <br>
 <br>
-🌱 I’m currently learning python
+🌱 I’m currently learning ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoOh-sf&show_icons=true&theme=radical)
