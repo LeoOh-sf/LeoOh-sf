@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Tech Stacks
+<br>
+Nothing
+<br>
 🤔 I’m looking for help with developer friends
 <br>
 🌱 I’m currently learning python
